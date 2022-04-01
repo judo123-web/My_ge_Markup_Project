@@ -174,7 +174,7 @@ body {
 }
 
 .second {
-  height: 907px;
+  min-height: 907px;
   display: flex;
   justify-content: center;
   gap: 70px;
